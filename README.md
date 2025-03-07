@@ -1,4 +1,5 @@
 1. To install:
+install.packages("devtools")  # Install devtools if not already installed in your R
 devtools::install_github("EdKieran27/MRIOTs_Helper_Functions")
 
 2. After installation, load the package:
