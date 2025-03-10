@@ -3,7 +3,7 @@ install.packages("devtools")  # Install devtools if not already installed in you
 devtools::install_github("EdKieran27/MRIOTs_Helper_Functions")
 
 2. After installation, load the package:
-library(MRIOTs_Helper_Functions)
+library(MRIOTHelperFunctions)
 
 3. To use the function for collapsing 72 economy MRIOT to 62 economy MRIOT, input three parameters:
    a. the directory where the 72 economy MRIOT is located
