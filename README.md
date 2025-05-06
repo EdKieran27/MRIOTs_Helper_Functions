@@ -14,5 +14,5 @@ IMPORTANT: Make sure the MRIOT filename is structured like this: ADB-MRIO-2017.x
 Please rename the MRIOT file you want to compress like this for now, you can always change afterwards. 
 
 sample function use: \
-aggregate_MRIO("C:/path/to/input", "C:/path/to/output", 2017)
+Compress_72to62("C:/path/to/input", "C:/path/to/output", 2017)
 
